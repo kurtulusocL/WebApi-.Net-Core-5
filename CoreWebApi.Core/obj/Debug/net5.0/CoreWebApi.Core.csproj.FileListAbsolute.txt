@@ -1,0 +1,15 @@
+C:\Users\kurtulusocL\Desktop\CoreWebApi\CoreWebApi.Core\bin\Debug\net5.0\CoreWebApi.Core.deps.json
+C:\Users\kurtulusocL\Desktop\CoreWebApi\CoreWebApi.Core\bin\Debug\net5.0\CoreWebApi.Core.runtimeconfig.json
+C:\Users\kurtulusocL\Desktop\CoreWebApi\CoreWebApi.Core\bin\Debug\net5.0\CoreWebApi.Core.runtimeconfig.dev.json
+C:\Users\kurtulusocL\Desktop\CoreWebApi\CoreWebApi.Core\bin\Debug\net5.0\CoreWebApi.Core.dll
+C:\Users\kurtulusocL\Desktop\CoreWebApi\CoreWebApi.Core\bin\Debug\net5.0\ref\CoreWebApi.Core.dll
+C:\Users\kurtulusocL\Desktop\CoreWebApi\CoreWebApi.Core\bin\Debug\net5.0\CoreWebApi.Core.pdb
+C:\Users\kurtulusocL\Desktop\CoreWebApi\CoreWebApi.Core\obj\Debug\net5.0\CoreWebApi.Core.csproj.AssemblyReference.cache
+C:\Users\kurtulusocL\Desktop\CoreWebApi\CoreWebApi.Core\obj\Debug\net5.0\CoreWebApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurtulusocL\Desktop\CoreWebApi\CoreWebApi.Core\obj\Debug\net5.0\CoreWebApi.Core.AssemblyInfoInputs.cache
+C:\Users\kurtulusocL\Desktop\CoreWebApi\CoreWebApi.Core\obj\Debug\net5.0\CoreWebApi.Core.AssemblyInfo.cs
+C:\Users\kurtulusocL\Desktop\CoreWebApi\CoreWebApi.Core\obj\Debug\net5.0\CoreWebApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Desktop\CoreWebApi\CoreWebApi.Core\obj\Debug\net5.0\CoreWebApi.Core.dll
+C:\Users\kurtulusocL\Desktop\CoreWebApi\CoreWebApi.Core\obj\Debug\net5.0\ref\CoreWebApi.Core.dll
+C:\Users\kurtulusocL\Desktop\CoreWebApi\CoreWebApi.Core\obj\Debug\net5.0\CoreWebApi.Core.pdb
+C:\Users\kurtulusocL\Desktop\CoreWebApi\CoreWebApi.Core\obj\Debug\net5.0\CoreWebApi.Core.genruntimeconfig.cache
